@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
+    "type": "heroku",
     "url": "https://still-sands-92965.herokuapp.com/"
   },
   "author": "",
@@ -16,5 +16,6 @@
   "dependencies": {
     "express": "^4.18.1",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {}
 }
